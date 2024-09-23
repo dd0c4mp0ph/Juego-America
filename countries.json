@@ -1,0 +1,77 @@
+{
+    "countries": [
+      {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "coordinates": [-38.4161, -63.6167],
+        "flag": "https://restcountries.com/v3.1/all/flags/arg.svg"
+      },
+      {
+        "name": "Brasil",
+        "capital": "Brasilia",
+        "coordinates": [-14.235, -51.9253],
+        "flag": "https://restcountries.com/v3.1/all/flags/bra.svg"
+      },
+      {
+        "name": "Canadá",
+        "capital": "Ottawa",
+        "coordinates": [56.1304, -106.3468],
+        "flag": "https://restcountries.com/v3.1/all/flags/can.svg"
+      },
+      {
+        "name": "Chile",
+        "capital": "Santiago",
+        "coordinates": [-35.6751, -71.543],
+        "flag": "https://restcountries.com/v3.1/all/flags/chl.svg"
+      },
+      {
+        "name": "México",
+        "capital": "Ciudad de México",
+        "coordinates": [23.6345, -102.5528],
+        "flag": "https://restcountries.com/v3.1/all/flags/mex.svg"
+      },
+      {
+        "name": "Estados Unidos",
+        "capital": "Washington, D.C.",
+        "coordinates": [37.0902, -95.7129],
+        "flag": "https://restcountries.com/v3.1/all/flags/usa.svg"
+      },
+      {
+        "name": "Perú",
+        "capital": "Lima",
+        "coordinates": [-9.19, -75.0152],
+        "flag": "https://restcountries.com/v3.1/all/flags/per.svg"
+      },
+      {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "coordinates": [4.5709, -74.2973],
+        "flag": "https://restcountries.com/v3.1/all/flags/col.svg"
+      },
+      {
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "coordinates": [6.4238, -66.5897],
+        "flag": "https://restcountries.com/v3.1/all/flags/ven.svg"
+      },
+      {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "coordinates": [-32.5228, -55.7658],
+        "flag": "https://restcountries.com/v3.1/all/flags/ury.svg"
+      },
+      {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "coordinates": [-23.4425, -58.4438],
+        "flag": "https://restcountries.com/v3.1/all/flags/pry.svg"
+      },
+      {
+        "name": "Cuba",
+        "capital": "La Habana",
+        "coordinates": [21.5218, -77.7812],
+        "flag": "https://restcountries.com/v3.1/all/flags/cub.svg"
+      }
+    ]
+  }
+  
