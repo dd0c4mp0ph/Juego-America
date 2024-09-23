@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  #map {
+    margin-top: 20px;
+  }
+  
+  #scoreboard p {
+    font-size: 1.2em;
+  }
+  
+  #startButton {
+    margin: 20px auto;
+  }
+  
